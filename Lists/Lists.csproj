@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dictionaries\DictionariesComplexObject.cs" />
+    <Compile Include="Dictionaries\DictionariesKeyValueAreStrings.cs" />
+    <Compile Include="Dictionaries\DictionariesMethods.cs" />
+    <Compile Include="Dictionaries\Employee.cs" />
+    <Compile Include="Dictionaries\Index.cs" />
     <Compile Include="ListVariaties\ListAny.cs" />
     <Compile Include="ListVariaties\ListAddRemove.cs" />
     <Compile Include="ListVariaties\Index.cs" />
@@ -50,6 +55,7 @@
     <Compile Include="ListVariaties\ListComplexObject.cs" />
     <Compile Include="ListVariaties\ListFilter.cs" />
     <Compile Include="ListVariaties\ListFindAllDelegates.cs" />
+    <Compile Include="ListVariaties\ListNullables.cs" />
     <Compile Include="ListVariaties\ListSortFindAll.cs" />
     <Compile Include="Product\Product.cs" />
     <Compile Include="Program.cs" />

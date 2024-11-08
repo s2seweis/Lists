@@ -22,7 +22,9 @@ namespace Lists.ListVariaties
 
             //ListFilter listFilter = new ListFilter();
 
-            ListArrayList listArrayList = new ListArrayList();
+            //ListArrayList listArrayList = new ListArrayList();
+
+            //ListNullables listNullables = new ListNullables();
 
 
 
